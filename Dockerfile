@@ -1,6 +1,6 @@
 FROM python:3-alpine
 
-ARG rst2pdf_version=0.98
+ARG rst2pdf_version=0.99
 
 RUN apk add \
   fontconfig \
